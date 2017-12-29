@@ -1,7 +1,7 @@
 # FriendFinder
 Match you to most compatible friend!
 
-You can watch use the URL: https://whispering-brushlands-95893.herokuapp.com/
+You can goto the deplyed app via heroku using the URL: https://whispering-brushlands-95893.herokuapp.com/
 
 ## Description
 
