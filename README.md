@@ -7,6 +7,13 @@ You can watch use the URL: https://whispering-brushlands-95893.herokuapp.com/
 
 This application implements a express and node to provide a user friendly GUI that allows for a survey and a match of potential friends.  Only the user searching will find a friend from a select group.
 
+The Friend Finder only stores you and your potential matches, it can be modified to store all users if you remove from apiRoutes:
+       //Empty array to push matched friend can be removed?
+        var besty = {
+            name: "",
+            photo: "",
+            friendDiff: 1000
+        };
 
 ## Install
 
